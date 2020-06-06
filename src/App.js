@@ -13,9 +13,6 @@ function App() {
         <p>
           Auto Deployment on Surge through Github actions with custom YML config.
         </p>
-        <a>
-          Contact me Here
-        </a>
       </header>
     </div>
   );
