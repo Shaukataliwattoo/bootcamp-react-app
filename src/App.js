@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello World from Shaukat Ali and Muhammad Ahmed
+      Hello World from Shaukat Ali with github action
     </div>
   );
 }
