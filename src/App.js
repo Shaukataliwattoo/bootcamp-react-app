@@ -7,18 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>
-          Hello React World from Shaukat Ali
-        </h2>
+        <h1>
+          Hello World from Shaukat Ali
+        </h1>
         <p>
-          Auto Deployment on Surge through Github actions with custome YAML config.
+          Auto Deployment on Surge through Github actions with custom YML config.
         </p>
-        <a
-          className="App-link"
-          href="https://mi3afzal.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a>
           Contact me Here
         </a>
       </header>
